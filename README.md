@@ -3,7 +3,8 @@ zeiss machinestream test project
 
 ## How to run
 
-Download pre-compile excutable file from release
+Download pre-compile excutable file from release [Mac Version](https://github.com/sawima/zeiss_machinestream/releases/download/v0.0.1/machinestream_linux_amd64.zip
+) [linux version](https://github.com/sawima/zeiss_machinestream/releases/download/v0.0.1/machinestream_mac_amd64.zip)
 
 - upzip the target release
 - then run follow script
